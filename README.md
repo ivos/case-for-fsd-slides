@@ -1,6 +1,6 @@
-# ... slides
+# The case for Functional Specification slides
 
-Site: https://ivos.github.io/...-slides
+Site: https://ivos.github.io/case-for-fsd-slides/
 
 ## License
 
