@@ -15,4 +15,4 @@ This work is licensed under a
 </a>
 </p>
 
-Copyright (C) 2019 Ivo Maixner, https://lastware.cz
+Copyright (C) 2019 Ivo Maixner, https://www.lastware.cz
